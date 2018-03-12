@@ -1,4 +1,4 @@
-# theWeather
+# JustWeather
 
 ### Just Weather - OpenWeatherMap API, JSON, Location data, CocoaPods, TableViews, Alamofire.                
 
